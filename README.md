@@ -24,5 +24,7 @@ example/
         标的池(上证50成分股)
         factors.csv--PE因子文件
         prices.csv--价格文件
+        stock_2_idx.csv--股票代码到行业代码的编号文件(上证50成分股)
+        idx_2_name.csv--行业代码到行业名称的编号
 ##源代码讲解文档
 TODO

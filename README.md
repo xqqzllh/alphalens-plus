@@ -9,10 +9,10 @@ This project has undergone basic optimization and expansion for the A-share mark
 本项目针对A股市场做基本的优化和扩展。
 
 
-##主要修改内容:
+## 主要修改内容:
 针对python的更新做部分兼容性修改
 
-##目录说明
+## 目录说明
 example/
     
     本目录下主要是为了讲解alphalens的基本使用方法而建立的几个demo
@@ -26,5 +26,5 @@ example/
         prices.csv--价格文件
         stock_2_idx.csv--股票代码到行业代码的编号文件(上证50成分股)
         idx_2_name.csv--行业代码到行业名称的编号
-##源代码讲解文档
+## 源代码讲解文档
 TODO

@@ -30,3 +30,7 @@ example/
 TODO
 
 ## 版本更新说明
+
+欢迎关注公众号:闲敲棋子聊量化
+
+![Image_text](https://raw.githubusercontent.com/xqqzllh/xqqzllh/refs/heads/main/img/公众号-二维码8CM.jpg)

@@ -1,4 +1,3 @@
-from gquant import *
 import pandas as pd
 import alphalens
 import csv

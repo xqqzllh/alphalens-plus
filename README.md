@@ -26,6 +26,8 @@ example/
         prices.csv--价格文件
         stock_2_idx.csv--股票代码到行业代码的编号文件(上证50成分股)
         idx_2_name.csv--行业代码到行业名称的编号
+## 验证版本
+python 3.8
 ## 源代码讲解文档
 TODO
 

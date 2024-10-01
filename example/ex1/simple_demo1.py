@@ -2,6 +2,9 @@ import pandas as pd
 import alphalens
 import csv
 
+'''
+代码在python8下可以执行
+'''
 
 def read_csv_to_dict(file_path):
     result_dict = {}
